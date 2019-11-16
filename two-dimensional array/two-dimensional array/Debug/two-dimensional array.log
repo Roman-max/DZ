@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Роман\source\repos\two-dimensional array\two-dimensional array\Source.cpp(82,19): message :  Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\Роман\source\repos\two-dimensional array\two-dimensional array\Source.cpp(82,20): error C2440:  =: невозможно преобразовать "int" в "int **"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" завершилась с кодом 2.

@@ -1,0 +1,4 @@
+﻿  figures.cpp
+C:\Users\Роман\source\repos\Shashki2\Shashki2\figures.cpp(25,24): warning C4805:  ==: небезопасное смешение типа "int" и типа "bool" в операции
+C:\Users\Роман\source\repos\Shashki2\Shashki2\figures.cpp(182,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Shashki2.vcxproj -> C:\Users\Роман\source\repos\Shashki2\Debug\Shashki2.exe
